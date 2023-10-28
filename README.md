@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Live 
+https://travel-app-champing.netlify.app/
+
+# Preview 
+![image](https://github.com/masoom2313189/travel-app/assets/105916377/3d3cdd3c-5905-44ba-9e44-7d46b35c5a45)
+
+
 ## Getting Started
 
 First, run the development server:
